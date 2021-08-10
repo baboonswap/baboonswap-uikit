@@ -117,11 +117,7 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/PineappleFinance",
-      },
+    href: "https://t.me/baboonswap",
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
@@ -170,12 +166,12 @@ export const socials = [
       //   label: "Price Bot",
       //   href: "https://t.me/BinanceRocketEGG",
       // },
-    ],
+    
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/pineappledefi/",
+    href: "https://twitter.com/BaboonSwap",
   },
 ];
 
