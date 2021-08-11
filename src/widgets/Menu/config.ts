@@ -99,7 +99,7 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/baboonswap",
       },
       {
         label: "Docs",
@@ -107,7 +107,7 @@ export const links = [
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://baboonswap.medium.com/",
       },
     ],
   },
