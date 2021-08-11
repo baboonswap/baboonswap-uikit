@@ -2132,17 +2132,13 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/PineappleFinance",
-            },
-        ],
+        href: "https://t.me/baboonswap",
+
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/pineappledefi/",
+        href: "https://twitter.com/BaboonSwap",
     },
 ];
 var MENU_HEIGHT = 64;
